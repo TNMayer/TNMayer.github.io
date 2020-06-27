@@ -7,3 +7,7 @@ Raymond Reddington ist ein Hauptcharakter in der NBC Serie, The Blacklist. Reddi
 * Reddington besuchte eine Marineakademie
 * Im Alter von 24 sollte er Admiral werden
 * Verkaufte vertrauliche Dokumente an den Feind
+
+As RR said:
+> I’ve always been more interested
+> in the future than in the past.
